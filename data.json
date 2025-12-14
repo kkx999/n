@@ -5,7 +5,8 @@
     "links": [
       { "name": "Google", "url": "https://www.google.com", "desc": "全球最大的搜索引擎" },
       { "name": "ChatGPT", "url": "https://chat.openai.com", "desc": "最强 AI 助手" },
-      { "name": "GitHub", "url": "https://github.com", "desc": "代码托管平台" }
+      { "name": "GitHub", "url": "https://github.com", "desc": "代码托管平台" },
+      { "name": "Gemini", "url": "https://gemini.google.com", "desc": "谷歌 AI 助手" }
     ]
   },
   {
@@ -13,7 +14,6 @@
     "icon": "🎬",
     "links": [
       { "name": "YouTube", "url": "https://www.youtube.com", "desc": "视频分享网站" },
-      { "name": "Bilibili", "url": "https://www.bilibili.com", "desc": "哔哩哔哩干杯" },
       { "name": "Netflix", "url": "https://www.netflix.com", "desc": "流媒体服务" }
     ]
   },
