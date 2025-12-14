@@ -1,28 +1,151 @@
 [
   {
-    "category": "常用工具",
-    "icon": "🔧",
+    "category": "AI 生产力",
+    "icon": "🤖",
     "links": [
-      { "name": "Google", "url": "https://www.google.com", "desc": "全球最大的搜索引擎" },
-      { "name": "ChatGPT", "url": "https://chat.openai.com", "desc": "最强 AI 助手" },
-      { "name": "GitHub", "url": "https://github.com", "desc": "代码托管平台" },
-      { "name": "Gemini", "url": "https://gemini.google.com", "desc": "谷歌 AI 助手" }
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com",
+        "desc": "OpenAI 最强对话模型",
+        "new": true
+      },
+      {
+        "name": "Claude 3",
+        "url": "https://claude.ai",
+        "desc": "更具人情味的 AI 助手",
+        "new": true
+      },
+      {
+        "name": "Gemini",
+        "url": "https://gemini.google.com",
+        "desc": "Google 多模态 AI 模型"
+      },
+      {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com",
+        "desc": "AI 绘画生成艺术平台"
+      },
+      {
+        "name": "Kimi",
+        "url": "https://kimi.moonshot.cn",
+        "desc": "支持超长文本的国产 AI",
+        "new": true
+      }
     ]
   },
   {
-    "category": "影音娱乐",
-    "icon": "🎬",
+    "category": "开发与代码",
+    "icon": "💻",
     "links": [
-      { "name": "YouTube", "url": "https://www.youtube.com", "desc": "视频分享网站" },
-      { "name": "Netflix", "url": "https://www.netflix.com", "desc": "流媒体服务" }
+      {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "desc": "全球最大的开源社区"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "desc": "程序员问答圣地"
+      },
+      {
+        "name": "V2EX",
+        "url": "https://www.v2ex.com",
+        "desc": "创意工作者社区"
+      },
+      {
+        "name": "MDN Web Docs",
+        "url": "https://developer.mozilla.org",
+        "desc": "Web 开发权威指南"
+      },
+      {
+        "name": "掘金",
+        "url": "https://juejin.cn",
+        "desc": "帮助开发者成长的社区"
+      }
     ]
   },
   {
-    "category": "学习资源",
-    "icon": "📚",
+    "category": "设计与灵感",
+    "icon": "🎨",
     "links": [
-      { "name": "MDN Web Docs", "url": "https://developer.mozilla.org", "desc": "Web 开发权威指南" },
-      { "name": "Coursera", "url": "https://www.coursera.org", "desc": "在线课程平台" }
+      {
+        "name": "Figma",
+        "url": "https://www.figma.com",
+        "desc": "在线协作界面设计工具"
+      },
+      {
+        "name": "Dribbble",
+        "url": "https://dribbble.com",
+        "desc": "设计师作品分享平台"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com",
+        "desc": "全球灵感图片库"
+      },
+      {
+        "name": "Unsplash",
+        "url": "https://unsplash.com",
+        "desc": "免费高质量无版权图片"
+      }
+    ]
+  },
+  {
+    "category": "实用工具箱",
+    "icon": "🧰",
+    "links": [
+      {
+        "name": "DeepL 翻译",
+        "url": "https://www.deepl.com/translator",
+        "desc": "准确度极高的翻译工具"
+      },
+      {
+        "name": "TinyPNG",
+        "url": "https://tinypng.com",
+        "desc": "智能图片压缩神器"
+      },
+      {
+        "name": "Remove.bg",
+        "url": "https://www.remove.bg",
+        "desc": "AI 自动一键抠图",
+        "new": true
+      },
+      {
+        "name": "Speedtest",
+        "url": "https://www.speedtest.net",
+        "desc": "全球网速测试"
+      },
+      {
+        "name": "Excalidraw",
+        "url": "https://excalidraw.com",
+        "desc": "手绘风格的在线白板"
+      }
+    ]
+  },
+  {
+    "category": "摸鱼与资讯",
+    "icon": "☕",
+    "links": [
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com",
+        "desc": "全球最大视频网站"
+      },
+      {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com",
+        "desc": "干杯！( ゜- ゜)つロ"
+      },
+      {
+        "name": "Hacker News",
+        "url": "https://news.ycombinator.com",
+        "desc": "极客新闻聚合"
+      },
+      {
+        "name": "少数派",
+        "url": "https://sspai.com",
+        "desc": "高效工作生活指南"
+      }
     ]
   }
 ]
